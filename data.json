@@ -1,0 +1,34 @@
+{
+  "effect": [
+    ["bounds", "stereo delay/looper"],
+    ["cheat_codes_2", "a sample playground for norns"],
+    ["cranes", "stereo varispeed looper / delay / timeline-smoosher"],
+    ["gemini", "twin granulators. watch them race."],
+    ["greyhole", "A complex echo-like effect, inspired by the classic Eventide effect of a similar name."],
+    ["oooooo", "digital tape loops, x 6"],
+    ["otis", "dual tape delay/looper/sampler"],
+    ["pedalboard", "chainable effects for live performance"],
+    ["pools", "a shimmery reverb for norns"],
+    ["stack", "a stack of 8 fixed-frequency resonant bandpass filters"],
+    ["sway", "analysis-driven live processing,"],
+    ["tunnels", "a collection of uncertain delays using norns softcut"],
+    ["wrms", "dual asyncronous time-wigglers / echo loopers"]
+  ],
+  "favorites": [],
+  "midi": [
+    ["midi-monitor", "monitor MIDI in/out"],
+    ["connect-opz", "OP-Z USB Audio"]
+  ],
+  "sequencer": [
+    ["awake", "time changes"],
+    ["b-b-b-b-beat", "Ableton Beat Repat-ish"],
+    ["beets", "drum loop re-sequencer"],
+    ["euclidigons", "geometric rhythm generator"],
+    ["fourtunes", "A 4-track polyphonic step sequencer for the Monome Norns."]
+  ],
+  "synth": [
+    ["awake", "time changes"],
+    ["barycenter", "orbiting synth plucks for the monome norns"],
+    ["stjoernuithrott", "drone synth"]
+  ]
+}
